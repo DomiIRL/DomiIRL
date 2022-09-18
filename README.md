@@ -20,6 +20,14 @@
 </a>  
 </div>  
 
+### 16yo from Kiel, Germany :)  
+  
+
+❤ Admin and Creator of [Coding-Area.net](https://github.com/coding-area-net)  
+  
+
+💜 Part of [Cubeslide Creations](https://github.com/cubeslide-creations)  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
