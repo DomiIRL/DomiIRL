@@ -87,12 +87,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=crazycraft_lp&cover_image=true&theme=default" /></div>  
 
 <br/>  
