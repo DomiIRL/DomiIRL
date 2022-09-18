@@ -28,6 +28,8 @@
 
 💜 Part of [Cubeslide Creations](https://github.com/cubeslide-creations)  
 
+💙 Always open for commisions :)  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
