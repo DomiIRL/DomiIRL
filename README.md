@@ -31,6 +31,8 @@
 
 💙 Always open for commisions :)  
 
+🍣 Also weeb and asian food enjoyer :3
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
