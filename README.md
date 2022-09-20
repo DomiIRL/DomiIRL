@@ -99,5 +99,5 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KxmischesDomi&&style=flat-square" align="center" 
-![](https://hit.yhype.me/github/profile?user_id=67184131)
 </div>
+![](https://hit.yhype.me/github/profile?user_id=67184131)
