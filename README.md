@@ -26,7 +26,7 @@
 
 💚 Love creating Minecraft Mods and other cool stuff :P
 
-💙 Always open for commisions :)  
+💙 Always open for commissions :)  
 
 🍣 Also weeb and asian food enjoyer :3
 
