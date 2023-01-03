@@ -22,8 +22,6 @@
 
 ❤ Admin and Creator of [Coding-Area.net](https://github.com/coding-area-net)  
 
-💜 Part of [Cubeslide Creations](https://github.com/cubeslide-creations)  
-
 💚 Love creating Minecraft Mods and other cool stuff :P
 
 💙 Always open for commissions :)  
