@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/67184131/218286937-e940828c-8836-4266-95f1-ada1e70270f8.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -17,20 +17,14 @@
 </a>  
 </div>  
 
-### 16yo from Kiel, Germany :)  
-  
-❤ Admin and Creator of [Coding-Area.net](https://github.com/coding-area-net)  
+🎨 Always like to try out new stuff but...
+
+❤ Java I will always come back to you
 
 🔗 View my Profile on https://kxmischesdomi.me
 
-💚 Love creating Minecraft Mods and other cool stuff :P
-
-💙 Always open for commissions :)  
-
-## My Skill Set  
+### Things I have touched for longer than 5 seconds
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -82,16 +76,19 @@
 
 <br/>  
 
-## Github Stats  
+### stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KxmischesDomi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
+### Stalking is done here ;)
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=crazycraft_lp&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
 <div align="center">
+  
+### And now I have stalked u
 <img src="https://komarev.com/ghpvc/?username=KxmischesDomi&&style=flat-square" align="center">
 
 ![](https://hit.yhype.me/github/profile?user_id=67184131)
