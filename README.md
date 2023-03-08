@@ -24,7 +24,7 @@
 
 ❤ Java I will always come back to you
 
-🔗 View my Profile on https://kxmischesdomi.me
+🔗 View my Profile on https://kxmischesdomi.xyz
 
 ### Things I have touched for longer than 5 seconds
 <table><tr><td valign="top" width="33%">
