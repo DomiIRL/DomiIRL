@@ -20,10 +20,6 @@
 </a>  
 </div>  
 
-🎨 Always like to try out new stuff but...
-
-❤ Java I will always come back to you
-
 🔗 View my Profile on https://kxmischesdomi.xyz
 
 ### Things I have touched for longer than 5 seconds
