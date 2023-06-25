@@ -87,7 +87,6 @@
 
 <div align="center">
   
-### And now I have stalked you
 <img src="https://komarev.com/ghpvc/?username=KxmischesDomi&&style=flat-square" align="center">
 
 ![](https://hit.yhype.me/github/profile?user_id=67184131)
