@@ -22,7 +22,7 @@
 
 🔗 View my Profile on https://kxmischesdomi.xyz
 
-### Things I have touched for longer than 5 seconds
+### 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -75,12 +75,12 @@
 
 <br/>  
 
-### stats
+### 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KxmischesDomi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-### Stalking is done here ;)
+### 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=crazycraft_lp&cover_image=true&theme=default" /></div>  
 
 <br/>  
