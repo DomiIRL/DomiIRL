@@ -4,7 +4,7 @@
 <br/>  
 
 <div align="center">
-<a href="https://github.com/kxmischesdomi" target="_blank">
+<a href="https://github.com/domiirl" target="_blank" style>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/domi3313" target="_blank">
