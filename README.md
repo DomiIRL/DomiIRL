@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/67184131/218286937-e940828c-8836-4266-95f1-ada1e70270f8.jpg" align="center" style="width: 100%" />
-</div>  
+
   
 
 <br/>  
@@ -20,7 +18,7 @@
 </a>  
 </div>  
 
-🔗 View my Profile on https://kxmischesdomi.xyz
+🔗 View my Profile on https://domiirl.xyz
 
 ### 
 <table><tr><td valign="top" width="33%">
