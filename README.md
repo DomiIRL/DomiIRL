@@ -18,7 +18,7 @@
 </a>  
 </div>  
 
-🔗 View my Profile on https://domiirl.xyz
+🔗 View my Profile on https://domi.svrt.dev
 
 ### 
 <table><tr><td valign="top" width="33%">
