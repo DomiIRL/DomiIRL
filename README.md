@@ -70,7 +70,7 @@
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="65" height="65" />
         <br>Next.js
       </td>
       <td align="center" width="96">
@@ -104,7 +104,7 @@
         <br>Github
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="Node.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
@@ -116,7 +116,7 @@
         <br>Kubernetes
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=vim" alt="Node.js" width="65" height="65" />
+          <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="65" height="65" />
         <br>Vim
       </td>
     </tr>
