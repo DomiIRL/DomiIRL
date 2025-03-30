@@ -6,7 +6,7 @@
     <p>🎂 18yo 📍 Located in Kiel / Germany 🏠</p>
 </div>
 
-<h2 align="center">🌐 〣 Connect with me</h2>
+<h2 align="center">🌐 » Connect with me</h2>
 <div align="center">
     <a href="https://github.com/DomiIRL" target="_blank" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
@@ -26,12 +26,12 @@
     <a href="https://discord.com/users/289417516663439361"><img src="https://lanyard.cnrad.dev/api/289417516663439361" /></a>
 </div>
 
-<h2 align="center">🏆 〣 GitHub Trophies</h2>
+<h2 align="center">🏆 » GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DomiIRL&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </p>
 
-<h2 align="center">💻 〣 Tech Stack</h2>
+<h2 align="center">💻 » Tech Stack</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <table align="center">
     <tr>
@@ -123,7 +123,7 @@
   </table>
 </div>
 
-<h2 align="center">📊 〣 GitHub Stats</h2>
+<h2 align="center">📊 » GitHub Stats</h2>
 <div align="center">
   <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=domiirl&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&theme=onedark"/>
