@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff0000&section=header&fontAlign=0&fontAlignY=0&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:703ee5,100:ff0000&section=header&fontAlign=0&fontAlignY=0&reversal=false" />
 
 <div align="center">
     <h1>👋 Hi, I'm Dominik 👨‍💻</h1>
@@ -135,4 +135,4 @@
 
 ![](https://hit.yhype.me/github/profile?account_id=67184131)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff0000&section=footer&fontAlign=0&fontAlignY=0&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:703ee5,100:ff0000&section=footer&fontAlign=0&fontAlignY=0&reversal=false" />
