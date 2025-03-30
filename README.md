@@ -36,16 +36,12 @@
   <table align="center">
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
         <br>Java
+      </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="65" height="65" />
+        <br>Gradle
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="65" height="65" />
@@ -54,6 +50,10 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
         <br>C++
+      </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
       </td>
     </tr>
     <tr>
@@ -70,9 +70,11 @@
         <br>Tailwind
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="React" width="65" height="65" />
         <br>Next.js
       </td>
       <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React Native
       </td>
     </tr>
@@ -102,7 +104,7 @@
         <br>Github
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Node.js" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
@@ -110,12 +112,12 @@
         <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app.svg" alt="Prettier" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
         <br>Kubernetes
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
+          <img src="https://skillicons.dev/icons?i=vim" alt="Node.js" width="65" height="65" />
+        <br>Vim
       </td>
     </tr>
   </table>
