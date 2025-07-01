@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>👋 Hi, I'm Dominik 👨‍💻</h1>
-    <p>✨ Full Stack Developer & 🚀 DevOps Enthusiast ✨</p>
+    <p>✨ Java / Fullstack Developer & 🚀 DevOps Enthusiast ✨</p>
     <p>🎂 18yo 📍 Located in Kiel / Germany 🏠</p>
 </div>
 
