@@ -14,7 +14,7 @@
     <a href="https://twitter.com/domi3313" target="_blank" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
     </a>
-    <a href="https://www.youtube.com/user/UCfzy5qvogIgfokGqSMZ3WeQ" target="_blank">
+    <a href="https://www.youtube.com/@kxmischesdomi" target="_blank">
         <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
     </a>
     <a href="https://www.youtube.com/watch?v=cErgMJSgpv0" target="_blank">
