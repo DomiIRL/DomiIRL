@@ -96,8 +96,6 @@
         <br>Nginx
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
       </td>
     </tr>
     <tr>
@@ -123,16 +121,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<h2 align="center">📊 » GitHub Stats</h2>
-<div align="center">
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=domiirl&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&theme=onedark"/>
-  </a>
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiirl&layout=compact&card_width=320&show_icons=true&count_private=true&hide_border=true&theme=onedark" />
-  </a>
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=67184131)
