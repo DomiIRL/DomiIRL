@@ -17,9 +17,6 @@
     <a href="https://www.youtube.com/@kxmischesdomi" target="_blank">
         <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
     </a>
-    <a href="https://www.youtube.com/watch?v=cErgMJSgpv0" target="_blank">
-          <img src="https://user-images.githubusercontent.com/67184131/218307031-8bd6d09e-6ad6-4df2-a5ee-15dd58380947.svg" alt="onlyfans" />
-      </a>
 </div>
 <br>
 <div align="center">
