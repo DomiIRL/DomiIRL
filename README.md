@@ -14,8 +14,14 @@
     <a href="https://twitter.com/domi3313" target="_blank" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
     </a>
-    <a href="https://www.youtube.com/@kxmischesdomi" target="_blank">
+    <a href="https://www.youtube.com/@kxmischesdomi" target="_blank" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+    </a>
+    <a href="https://www.curseforge.com/members/domiirl/projects" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/curseforge-%23F16436.svg?&style=for-the-badge&logo=curseforge&logoColor=white" alt="curseforge" />
+    </a>
+    <a href="https://www.nexusmods.com/profile/DomiIRL/mods" target="_blank">
+        <img src="https://img.shields.io/badge/nexusmods-%23D98F40.svg?&style=for-the-badge&logo=nexusmods&logoColor=white" alt="nexusmods" />
     </a>
 </div>
 <br>
